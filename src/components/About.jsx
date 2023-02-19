@@ -5,7 +5,7 @@ import App from '../assets/app.png'
 
 function About() {
   return (
-    <div className='bg-[#92ddfa] h-screen p-[100px] md:flex justify-between items-center' id='about'>
+    <div className='bg-[#92ddfa] md:h-screen h-full p-[100px] md:flex justify-between items-center' id='about'>
       <div>
       <img src={St} alt="Sticky Note" className='md:scale-125 drop-shadow-xl scale-150'/>
       </div>
