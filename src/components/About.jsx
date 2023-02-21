@@ -4,7 +4,7 @@ import App from '../assets/app.svg'
 
 function About() {
   return (
-    <div className='bg-[#92ddfa] md:h-screen h-full p-[100px] md:flex justify-between items-center max-w-screen' id='about'>
+    <div className='bg-[#92ddfa] md:h-screen h-full p-[100px] md:flex justify-between items-center max-width-screen' id='about'>
       <div>
       <img src={St} alt="Sticky Note" className='md:scale-125 drop-shadow-xl scale-150'/>
       </div>

@@ -38,7 +38,7 @@ const Footer = () => {
 
   return (
     <div id='contact'>
-        <footer className="text-center bg-gray-900 text-white max-w-screen">
+        <footer className="text-center bg-gray-900 text-white max-width-screen">
   <div className="container px-6 pt-6">
     <div>
       <form action="">
@@ -82,10 +82,10 @@ const Footer = () => {
       </form>
     </div>
 
-    <div className='flex'>
+    <div className='flex p-10'>
     <div>
-        Phone: (+91) 6309412450 <br/>
-        Email: <a href="mail:vatika@gofetch.in">vatika@gofetch.in</a> 
+        Phone: <a href="tel:+916309412450">(+91) 6309412450</a> <br/>
+        Email: <a href="mailto:vatika@gofetch.in">vatika@gofetch.in</a> 
     </div>
 
     </div>
