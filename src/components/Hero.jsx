@@ -4,7 +4,7 @@ import Typed from 'react-typed'
 function Hero() {
   return (
     <div>
-    <div className=' flex h-screen bg-[#92DDFA] text-center items-center justify-center' id='home'>
+    <div className=' flex h-screen max-w-screen bg-[#92DDFA] text-center items-center justify-center' id='home'>
       <div>
       <h1 className='text-[100px] md:text-[400px] text-white font-bold drop-shadow-xl'>FETCH</h1>
         <div className='flex justify-center itmes-center'>

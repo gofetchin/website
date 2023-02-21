@@ -74,7 +74,7 @@ const Recruit = () => {
     }
     }
   return (
-    <div className='bg-[#344A53] md:h-screen h-full md:p-[125px] h-fit' id='recruit'>
+    <div className='bg-[#344A53] md:h-screen h-full md:p-[125px] h-fit max-w-screen' id='recruit'>
       <h1 className='md:text-5xl text-2xl text-center pt-6 md:p-[80px] font-bold text-white'>Join Our Team!</h1>
       <div className='md:flex justify-between'>
 

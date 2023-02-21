@@ -38,7 +38,7 @@ const Footer = () => {
 
   return (
     <div id='contact'>
-        <footer className="text-center bg-gray-900 text-white">
+        <footer className="text-center bg-gray-900 text-white max-w-screen">
   <div className="container px-6 pt-6">
     <div>
       <form action="">
