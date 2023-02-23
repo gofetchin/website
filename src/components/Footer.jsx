@@ -82,7 +82,7 @@ const Footer = () => {
       </form>
     </div>
 
-    <div className='flex p-10'>
+    <div className='flex p-10 justify-center'>
     <div>
         Phone: <a href="tel:+916309412450">(+91) 6309412450</a> <br/>
         Email: <a href="mailto:vatika@gofetch.in">vatika@gofetch.in</a> 
