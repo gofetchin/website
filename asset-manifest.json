@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.9d335108.css",
-    "main.js": "/static/js/main.c29872a0.js",
+    "main.js": "/static/js/main.01325608.js",
     "static/media/app.svg": "/static/media/app.2d8af7286205a77ab75bc813c88dd064.svg",
     "static/media/hiring.svg": "/static/media/hiring.b3017fe214df2160f4c55affac4ef6ba.svg",
     "index.html": "/index.html",
     "main.9d335108.css.map": "/static/css/main.9d335108.css.map",
-    "main.c29872a0.js.map": "/static/js/main.c29872a0.js.map"
+    "main.01325608.js.map": "/static/js/main.01325608.js.map"
   },
   "entrypoints": [
     "static/css/main.9d335108.css",
-    "static/js/main.c29872a0.js"
+    "static/js/main.01325608.js"
   ]
 }
