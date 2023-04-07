@@ -9,7 +9,6 @@ function App() {
     <div className="App">
       <NavBar />
       <Hero />
-      <About />
       <Recruit />
       <Footer />
     </div>
